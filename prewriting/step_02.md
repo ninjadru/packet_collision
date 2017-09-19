@@ -21,3 +21,9 @@ This paragraph summarizes the whole story. Your back-cover copy should summarize
 only about the first quarter of the story.
 
 # My Full Paragraph
+After a devestating cyberattack Jane is foraced to rethink her career and life.
+She has vowed to find the hacker behind the attack, even after she fails to
+discover their identity in a data center in china. Dale is minimalist who just
+wrote some great code for a client that doesn't run as expected. This code is
+altering reality and the lives of Jane and Dale. Together they stop the
+mysterious hacker who might actually be them all along.

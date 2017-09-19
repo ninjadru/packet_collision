@@ -22,3 +22,5 @@ do this. Writing a one-sentence description is an art form.
 
 
 ## My Synopsis
+A disgraced sysadmin seeks revenge on the hacker who ruined her
+career and shattered her life
