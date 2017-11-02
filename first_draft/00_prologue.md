@@ -1,4 +1,12 @@
 # 00_prologue
+From Wikipedia:
+
+Unix time (also known as POSIX time or epoch time)[citation needed] is a system for describing a point in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970,[1][note 1] minus the number of leap seconds that have taken place since then.[1][2][note 2] It is used widely in Unix-like and many other operating systems and file formats. Because the same timestamp can refer to two distinct instants of time around a leap second, it is neither a linear measure of time nor a true representation of UTC.[note 3] Unix time may be checked on most Unix systems by typing date +%s on the command line.
+
+The 32-bit representation of Unix time will end after the completion of 2,147,483,647 (231 - 1) seconds from the beginning (00:00:00 1 January 1970), i.e., on 19 January, 2038 03:14:08 GMT. This is referred to as the "Year 2038 problem" where the 32-bit Unix time will overflow and will take the actual count to negative.
+
+
+epochtime: 1018380726 California
 
 ls
 nothing

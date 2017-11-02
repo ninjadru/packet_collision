@@ -1,4 +1,7 @@
 # 01_jon
+
+epochtime: 1478087228 cleveland,ohio
+
 Jon had a list. It was a list of everything that he owned. This list was 125 lines. Each item had a line. When he started this list was thousands of lines. He had gotten it down to 112 at one point. The actual number did not concern him. This wasn't a game or a score. This was about not letting things get in the the way of living. To obsess over getting that number lower was contry to that way living living. It was the balence that Jon was after. The exact tipping point in which the things overpowered the living. He held his cup item 43. In it was tea that he made with item 
 65. One Stainless steele kettle 
 and item 
