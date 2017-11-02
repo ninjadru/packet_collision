@@ -8,6 +8,8 @@ The 32-bit representation of Unix time will end after the completion of 2,147,48
 
 epochtime: 1018380726 California
 
+12 years earlier...
+
 ls
 nothing
 ls -al
@@ -16,13 +18,13 @@ Jane typed the command again. The blank line came back. Expecting a differnt out
 pwd
 Print working directory. This let her know exactly where she was in file system. It let her know which directory she was in. It let her know that there should be a long list of files in this directory. Lots of files, each starting with a numeric time stamp. There should be a list of files. That is how her brain saw it. She no longer thought of the directory as a tree with folders and subfolders. She had gotten past that. She saw it for what it was.
 /backups/
-Slash backups slash. This was the directory that contained the backups of the servers. This was the directory where a long numeric list of files from each server lived. Yet it was empty there was nothing here. It place of the files was just the . and .. of an empty directory. Placeholders to allow her to navigate up a directory and out of the current directroy. 
+Slash backups slash. This was the directory that contained the backups of the servers. This was the directory where a long numeric list of files from each server lived. Yet it was empty there was nothing here. It place of the files was just the . and .. of an empty directory. Placeholders to allow her to navigate up a directory and out of the current directroy.
 
-She was typing this command from a cheap plastic keyboard perched on a small cart that help a monitor and lifeless mouse. The cart wheeled around a data center. It was called a crash cart. You used it to provide i/o for a server that needed fixed. From a crash that needed fixed. This was not the comfortble wok environment of her desk with the beige IBM model m that she had paid to much on ebay for. The was a data center, you only came here to tuch the metal to fix issues that could not be resolved remotley. You came her to recover from the crash. You came here becasue it was the last resort. 
+She was typing this command from a cheap plastic keyboard perched on a small cart that help a monitor and lifeless mouse. The cart wheeled around a data center. It was called a crash cart. You used it to provide i/o for a server that needed fixed. From a crash that needed fixed. This was not the comfortble wok environment of her desk with the beige IBM model m that she had paid to much on ebay for. The was a data center, you only came here to tuch the metal to fix issues that could not be resolved remotley. You came her to recover from the crash. You came here becasue it was the last resort.
 
 
 
-She had been through this exercise before from her desk. She had typed these commands before, from the comfort of her chair and model m. Now she was standing in the warm row of a dark nosie data center, getting the same results. Her mind was having trouble comprehending this. There were supposed to be backups in this directory. 
+She had been through this exercise before from her desk. She had typed these commands before, from the comfort of her chair and model m. Now she was standing in the warm row of a dark nosie data center, getting the same results. Her mind was having trouble comprehending this. There were supposed to be backups in this directory.
 
 She had left her desk for what seemed like an oddity. A small intrigue in her brain. THe thrill of the puzzle. That was probably why she did this work. The puzzle of it. As a child she enjoyed riddles and the cryptogram in the paper. It seemed so long ago to her. The anaconistic nature of the daily paper with its puzzles hit her as she stood up from her desk. She walked out of her dimmly lite office into the hall the floreset lights temporarly blinding her. Down the hall to the stair well. Down the stairs out the side door. Across the grass. The soles of her feet hitting the concret sidewalk of a perfectly maniqured lawn. To building C. Through the doors. Sign in. Badge in. Though several sets of doors. In to the mantrap, then on to the data center.
 
@@ -40,9 +42,9 @@ In 1987 Paul Vixie wrote a modern version of a utility called cron. It was short
 # │ │ │ │ │
 # * * * * *  command to execute
 ```
-This diagram confused and intimidated new users. Many websites exsisted to provide cheatsheets and help understanding the format. They aided junior admins in the fine art of knowing that 
+This diagram confused and intimidated new users. Many websites exsisted to provide cheatsheets and help understanding the format. They aided junior admins in the fine art of knowing that
 ```
-*/5 * * * * /home/admin/my_cool_script.sh 
+*/5 * * * * /home/admin/my_cool_script.sh
 ```
 Would run every the cool script the admin deemed cool every 5 minutes. Likewise:
 ```
@@ -54,4 +56,3 @@ Jane knew all this because she was not a junior admin, she was not someone who n
 man cron
 
 She knew all this because she was not a junior admin. She was the senior systems adminrator for GTAC bioengineering. She knew all this beacuse it made sense to her. She saw it in her head. She spoke this archanaine language. She did not translate like some rosetta stone. She did not need to translate it. Slash etsie was the directory in which system configurations were held. /etc. She did not think the directory where system configs are held ten translate that to /etc. She just knew you went to /etc. She knew the same way she knew her native tongue english. It just was. The signifer stood in place of the sign. She knew cron and she knew that had written cronjobs across all the servers. Her script would execute at the time she persribed. A time illustrated by five * signs. Signifed equallys sign. She knew that she had written these cron jobs to stager the backups not to flood the pipe. She knew that if every server tried to write a rather large system back up all at once the amount of data flowing through the network would be to great. There was a bottleneck and she had deftly written around it. Her backups did not flood the pipe they did not exhust available tcp connections. Her backup moved smoothly and cascaded throughout the datacenter resulting in a nightly backup that worked like clockwork. Like cron work. She knew all this. And as she slammed her hand to the crashcart knocking it over, the crash barely audible over the din of hundreds of servers. She slid to the ground the warm air hitting her face. She knew all this. She knew that there was supposed to be a list of files each starting with a numeric datestamp in this directoy. She knew all this. She knew it was all gone.  
-
