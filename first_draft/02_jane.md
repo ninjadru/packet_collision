@@ -13,4 +13,23 @@ It wasn't much to look at. One large room with fifteen foot high ceilings. a sma
 "THe Miller Standard Button building was built in 1912. It hosued tha largest american producer of buttons. THis building at its height had emploeed over 1200 workers that could produce up to fifteen thousand buttons a day. During both world wars the factory was instramentatl in providing buttons to allied troop uniforms. After world war 2 and the genral decline of manufacturing in the region the building was sold from the miller family to local investors. These investors failed to find a perminante home for the factory. In the late 80s after the property had fallen into neglegt commiuntiy leaders and realestate developers had lead a community driven revitailzation of the factory. This was short lived as all manufacturing had been all but abandoned for cheap overseas labor. "
 
 
-The current owner had won the property in a card game. He had beaten the original owner with an mildy above medicore hand. Truth be told there was smaile on the face of the lsoing former woner as he handed over the dead and signed the papers. He was glad to be released of the burdon of failure that came to this property. THe new owner had decided that he could make a steady stream of income by renting to a 
+The current owner had won the property in a card game. He had beaten the original owner with an mildy above medicore hand. Truth be told there was smaile on the face of the lsoing former woner as he handed over the dead and signed the papers. He was glad to be released of the burdon of failure that came to this property. THe new owner had decided that he could make a steady stream of income by renting to a less then savory clientel. The junkies and whore had over time given way to "artists" and although neglectful in upkeep he turn the other way most of the time. It had proved a semi depednable source of income and he genrally ignored the coming and goings on property as long as the rent was paid.
+
+THe space itself was emmense. THe floor that housed Jane and Rachels loft had nine other lofts/studios. Only two of them were occupied. ONe belonged to Max who had been there since the early days. For years he had lived and worked creating jewelry that sold at local botiques and craft shows. He produced this in mass with little passion but it paid his bills. His true art laid in large scale paintings, he was quite talented however the overall size and price resulted in very little sales. So to make ends meet he half haertly wouns bits of glass beads arouns brass wire to sell to women from the subrbs. He  was not cynical or jaded about this just happy that he could sustain himself and live in his studio. Two doors down from max was a young man with a shaved head who kept to himself and made electronic music. Jane and Rachel saw very little of the man altough he did stop by one of Max's monthly parties at one point. Rachel made it a point to say hello but the conversation was strained and he quickly retreated into his space to write music through th night. He was nocturnal and kept to himself so both Rachel and Jane saw very little of him.
+
+Jane got out of bed and took a quick shower reveling in the fact that the water remained hot the entire short time. She made a pot of coffee from a very expense coffe maker that Rachel had bought. She sipped her coffee and opened her laptop. She had been working out the details of a new art project in her head for the last few weeks. She opened her laptop and dove into the termainal
+```
+mkdir project_paperclip
+ls
+project_paperclip
+vim paperclip.sh
+```
+The screen change subtly now she was in a text editior rather then her usual terminal. A text editor differed remarkably from something like word. People who used Word write purposals and newletters and press releases. People who used a text editor wrote code and her case art. Text editors were somewhat arcane, hard to learn and very powerful. She used vim which put her on oneside of a vicous geek feud. The other side was emacs. Many a flame wars has begun on forums, mailing lists and genral hacker culture on the merits or dismetis of each editor. Zealots and devotes choose their text editor and chastieed the other side. Jane had choosen vim and worked through its quickery somewhat clunky series of key commands. She had been using the editor for over a decade and a half and it was second nature to her now. She did not need to translate sign to signifed. She just moved her fingers over the keys of her model m.
+```
+i
+```
+Now she was in insert mode. She typed quickly
+```
+#!/bin/bash
+```
+Translated: She Bang slash bin slash bash
