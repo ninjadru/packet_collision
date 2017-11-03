@@ -24,11 +24,13 @@ ls
 project_paperclip
 vim paperclip.sh
 ```
-The screen change subtly now she was in a text editior rather then her usual terminal. A text editor differed remarkably from something like word. People who used Word write purposals and newletters and press releases. People who used a text editor wrote code and her case art. Text editors were somewhat arcane, hard to learn and very powerful. She used vim which put her on oneside of a vicous geek feud. The other side was emacs. Many a flame wars has begun on forums, mailing lists and genral hacker culture on the merits or dismetis of each editor. Zealots and devotes choose their text editor and chastieed the other side. Jane had choosen vim and worked through its quickery somewhat clunky series of key commands. She had been using the editor for over a decade and a half and it was second nature to her now. She did not need to translate sign to signifed. She just moved her fingers over the keys of her model m.
+The screen change subtly now she was in a text editior rather then her usual terminal. A text editor differed remarkably from something like word. People who used Word write purposals and newletters and press releases. People who used a text editor wrote code and her case art. Text editors were somewhat arcane, hard to learn and very powerful. She used vim which put her on oneside of a vicous geek feud. The other side was emacs. Many a flame wars has begun on forums, mailing lists and genral hacker culture on the merits or dismetis of each editor. Zealots and devotes choose their text editor and chastieed the other side. Jane had choosen vim and worked through its quickery somewhat clunky series of key commands. She mused over a an old joke about emacs:
+"A great operating system , lacking only a decent editor"
+She had been using the editor for over a decade and a half and it was second nature to her now. She did not need to translate sign to signifed. She just moved her fingers over the keys of her model m.
 ```
 i
 ```
-Now she was in insert mode. She typed quickly
+Now she was in insert mode. She could add text. This was differnet then "normal" mode where commands could be run. To switch out of insert mode you pressed the escape key. She typed quickly into the insert mode. Deftly her fingers move over the keys the clack and bounce of the model m ading the rythem of her typing.
 ```
 #!/bin/bash
 ```
