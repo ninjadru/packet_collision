@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="11D9D4DF-D670-432B-978A-CC8AD64FD2A8" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="case" Author="ninjadru" Modified="2018-03-21 21:01:26 -0400" ModID="BA298E77-FC4E-4D34-8274-6D4CFF76EA25">
+<ScrivenerProject Identifier="11D9D4DF-D670-432B-978A-CC8AD64FD2A8" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="case" Author="ninjadru" Modified="2018-03-21 21:35:48 -0400" ModID="1BF957C7-4DEF-4BFA-A349-0A62DD3FCBEE">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-03-21 20:38:57 -0400" Modified="2018-03-21 20:38:57 -0400">
             <Title>Novel Format</Title>
@@ -27,7 +27,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,1226</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="EA83FC35-7554-42E1-8C82-C868BF4A427A" Type="Text" Created="2018-03-21 20:42:32 -0400" Modified="2018-03-21 20:42:56 -0400">
@@ -36,25 +36,25 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1347,79</TextSelection>
+                        <TextSelection>1427,126</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="28255BEE-6B8C-42C5-A283-8838CC6505B7" Type="Text" Created="2018-03-21 20:43:03 -0400" Modified="2018-03-21 20:44:16 -0400">
+                <BinderItem UUID="28255BEE-6B8C-42C5-A283-8838CC6505B7" Type="Text" Created="2018-03-21 20:43:03 -0400" Modified="2018-03-21 21:21:03 -0400">
                     <Title>Step 3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1582,0</TextSelection>
+                        <TextSelection>1605,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="84FDC0A8-9D85-45CD-9034-D13BFE6AE41D" Type="Text" Created="2018-03-21 20:43:09 -0400" Modified="2018-03-21 21:01:26 -0400">
+                <BinderItem UUID="84FDC0A8-9D85-45CD-9034-D13BFE6AE41D" Type="Text" Created="2018-03-21 20:43:09 -0400" Modified="2018-03-21 21:20:11 -0400">
                     <Title>Step 4</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1072,0</TextSelection>
+                        <TextSelection>3474,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="7FD39AAC-4BAC-4B8D-A4A3-6A8D2781B84F" Type="Text" Created="2018-03-21 20:43:15 -0400" Modified="2018-03-21 20:44:45 -0400">
@@ -117,7 +117,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1070,0</TextSelection>
+                        <TextSelection>195,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -125,13 +125,13 @@
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-03-21 20:38:57 -0400" Modified="2018-03-21 20:38:57 -0400">
             <Title>Manuscript</Title>
             <Children>
-                <BinderItem UUID="6BAFAE61-08DC-43A4-9100-443B777CDD69" Type="Text" Created="2018-03-21 20:50:48 -0400" Modified="2018-03-21 20:51:22 -0400">
+                <BinderItem UUID="6BAFAE61-08DC-43A4-9100-443B777CDD69" Type="Text" Created="2018-03-21 20:50:48 -0400" Modified="2018-03-21 21:28:06 -0400">
                     <Title>00_prologue</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>551,0</TextSelection>
+                        <TextSelection>7153,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="930C6520-6882-4BA9-A1C2-F350BD16B07C" Type="Text" Created="2018-03-21 20:51:26 -0400" Modified="2018-03-21 20:52:00 -0400">
@@ -539,13 +539,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="3979" Characters="21799" Date="2018-03-21 20:38:55 -0400"></PreviousSession>
+        <PreviousSession Words="3979" Characters="21818" Date="2018-03-21 20:38:55 -0400"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-21 20:38:57 -0400">
         <DraftWordCount>3979</DraftWordCount>
-        <DraftCharCount>21799</DraftCharCount>
-        <OtherWordCount>3272</OtherWordCount>
-        <OtherCharCount>18760</OtherCharCount>
+        <DraftCharCount>21818</DraftCharCount>
+        <OtherWordCount>3619</OtherWordCount>
+        <OtherCharCount>20678</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
